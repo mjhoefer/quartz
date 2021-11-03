@@ -1,0 +1,18 @@
+
+@article{kelly_taxonomy_2007,
+	title = {A {Taxonomy} for {Homework} {Used} by {Mental} {Health} {Case} {Managers} {When} {Working} with {Individuals} {Diagnosed} with {Severe} {Mental} {Illness}},
+	volume = {43},
+	issn = {1573-2789},
+	url = {https://doi.org/10.1007/s10597-007-9097-4},
+	doi = {10.1007/s10597-007-9097-4},
+	abstract = {A survey was completed by 122 case managers describing the types of homework assignments commonly used with individuals diagnosed with severe mental illness (SMI). Homework types were categorized using a 12-item homework description taxonomy and in relation to the 22 domains of the Camberwell Assessment of Need (CAN). Case managers predominately reported using behaviourally based homework tasks such as scheduling activities and the development of personal hygiene skills. Homework focused on CAN areas of need in relation to Company, Psychological Distress, Psychotic Symptoms and Daytime Activities. The applications of the taxonomy for both researchers and case managers are discussed.},
+	language = {en},
+	number = {6},
+	urldate = {2021-10-15},
+	journal = {Community Mental Health Journal},
+	author = {Kelly, Peter J. and Deane, Frank P. and King, Robert and Kazantzis, Nikolaos and Crowe, Trevor P.},
+	month = dec,
+	year = {2007},
+	pages = {565--581},
+	file = {Springer Full Text PDF:C\:\\Users\\mjhoe\\Zotero\\storage\\WR2ZY6SR\\Kelly et al. - 2007 - A Taxonomy for Homework Used by Mental Health Case.pdf:application/pdf},
+}

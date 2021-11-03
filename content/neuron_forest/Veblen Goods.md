@@ -1,0 +1,3 @@
+https://www.investopedia.com/terms/v/veblen-good.asp#:~:text=Key%20Takeaways-,A%20Veblen%20good%20is%20a%20good%20for%20which%20demand%20increases,and%20are%20a%20status%20symbol.&text=Examples%20of%20Veblen%20goods%20include,%2C%20yachts%2C%20and%20luxury%20cars.
+
+Goods where the price increases and so does demand, perhaps because the possession of such goods is a social signal that helps to construct social hierarchies. 

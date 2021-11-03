@@ -1,0 +1,1 @@
+In [[@dienerMoneyEconomyWellBeing2004]], well-being is described as "peoples' positive evaluations of their lives."

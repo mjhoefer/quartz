@@ -1,0 +1,3 @@
+A [[Personal Informatics]] phenomenon when the process of measuring changes what is being measured. Generally the behavior change is in the desired direction. In other words, just tracking my steps results in me taking more steps, all else being equal.
+
+No clear cognitive explanation for why. Likely a direction of [[Attention]] to the thing being measured, and the resulting cognitive processes that would think about the thing being measured. Hopefully slowing down thought processes.

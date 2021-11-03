@@ -1,0 +1,1 @@
+Unclear. Described as "transitory, ephemeral, and reassuring" in [[@kayeMoneyTalksTracking2014]].

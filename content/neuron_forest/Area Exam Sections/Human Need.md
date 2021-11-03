@@ -1,0 +1,5 @@
+The concept of human need has been long debated and discussed by philosophers, psychologists, and economists, without much consensus. While books have been written exploring the various ways in which human need has been conceptualized (specifically see Dean's [[@deanUnderstandingHumanNeed2010]]), for the purposes of this paper, I will provide an overview of the major viewpoints of human need.
+
+Conceptually, theories of need tend to include two perspectives: hedonic and eudamaic approaches to human need.  The hedonic view deals with mental states - and suggests that human goals are largely revolving around reaching certain mental states. This aligns with Kahneman's [[hedonic psychology]] - the study of the lived experience,  the in-the-moment feelings of individuals. 
+
+According to Hagen's view of human society as a [[Superorganism]] (in [[@hagensEconomicsFutureSuperorganism2020a]]), the 
