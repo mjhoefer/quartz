@@ -1,3 +1,7 @@
+---
+title: "PI"
+---
+
 Models of Personal Informatics
 ====
 
